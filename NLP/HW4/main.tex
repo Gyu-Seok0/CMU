@@ -1,0 +1,233 @@
+\documentclass{exam}
+
+%------------------------ packages ------------------------%
+\usepackage{amsmath,amsfonts,amsthm,amssymb,amsopn,bm}
+\usepackage{pythontex}
+\usepackage{fullpage}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage[paper=letterpaper,margin=1in,includeheadfoot,footskip=0.25in,headsep=0.25in]{geometry}
+\usepackage{url}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage[pdfborder={0 0 1},colorlinks=true,citecolor=black,plainpages=false]{hyperref}
+%\usepackage{fancyhdr}
+\usepackage{multirow}
+\usepackage[english]{babel}
+\usepackage{pdfpages,bbm}
+\usepackage{enumitem}
+\usepackage{todonotes}
+
+
+%------------------------ math ------------------------%
+\newcommand{\R}{\mathbb{R}} % real domain
+\newcommand{\Rset}{\mathbb{R}} % real domain
+\newcommand{\argmin}{\operatorname{argmin}}
+\newcommand{\argmax}{\operatorname{argmax}}
+\newcommand{\xv}{\mathbf{x}}
+\newcommand{\wv}{\mathbf{w}}
+\newcommand{\Xv}{\mathbf{X}}
+\newcommand{\W}{\mathbf{W}}
+\newcommand{\K}{\mathbf{K}}
+\newcommand{\M}{\mathbf{M}}
+\newcommand{\C}{\mathbf{C}}
+\newcommand{\B}{\mathbf{B}}
+\newcommand{\X}{\mathbf{X}}
+\newcommand{\I}{\mathbf{I}}
+\newcommand{\Proj}{\mathbf{P}}
+\newcommand{\Y}{\mathbf{Y}}
+\newcommand{\U}{\mathbf{U}}
+\newcommand{\V}{\mathbf{V}}
+\renewcommand{\L}{\mathbf{L}}
+\newcommand{\y}{\mathbf{y}}
+\newcommand{\x}{\mathbf{x}}
+\newcommand{\w}{\mathbf{w}}
+\newcommand{\mD}{\mathbf{D}}
+\newcommand{\A}{\mathbf{A}}
+\newcommand{\zero}{\mathbf{0}}
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+\DeclareMathOperator{\rank}{rank}
+
+
+%------------------------ exam class macros ------------------------%
+\checkboxchar{$\Box$}
+% \renewcommand{\questionshook}{%
+%     \setlength{\leftmargin}{10pt}%
+%     \setlength{\labelwidth}{-\labelsep}%
+% }
+\renewcommand{\checkboxeshook}{
+  \settowidth{\leftmargin}{W.}
+  \labelwidth\leftmargin\advance\labelwidth-\labelsep
+}
+
+\newcommand{\grade}[1]{\small\textcolor{magenta}{\emph{[#1 points]}} \normalsize}
+\newcommand{\sol}[1]{\ifshowsolutions{\leavevmode{\color{blue}Solution: #1}}\fi}
+
+\newif\ifshowsolutions
+%\showsolutionsfalse % whether to show solutions (true) or not (false)
+\showsolutionstrue
+
+
+\begin{document}
+
+\title{Homework 4}
+\author{\Large \bf 11-411/11-611: Natural Language Processing}
+\date{{\bf Due Thursday, October 11th at 11:59 PM Eastern Time}}
+\maketitle
+
+\section{Introduction}
+In this homework, you will be building your first Language Model. You will be expected to build a N-gram Language model. You will also implement Laplace Smoothing (a Lazy version) to account for unknown words. The assignment is broken down into following subsections 
+
+ \section{Programming (60 points)}
+Refer to the notebook that is provided as part of the handout. You will be downloading the required data files, along with the \textbf{utils.py} and \textbf{main.py}. \textbf{Do not edit these files}. After you are done coding, paste the functions and the classes you implemented in the \textbf{lm.py} that is part of the handout and then upload the \textbf{utils.py} and \textbf{lm.py} to the HW-3 Programming Submission, without zipping them.
+
+\section{Written (40 points)}
+Answer the following questions based on the code you've written. You can use the latex file in the handout to answer the questions. Upload the PDF to the HW-3 Written Submission 
+
+\subsection{N-Gram counts(10 points)}
+Train the language model on the data/bbc/business.txt dataset for n = 2 and n = 3. Then do the same for data/bbc/sports.txt datset
+
+\begin{enumerate}
+\item \grade{2.5} How many unique 2-grams are present in the business data-set?
+\\Answer: 83819
+
+% Your  solution
+
+\vspace{1cm}
+\item \grade{2.5} How many unique 3-grams are present in the business data-set?
+% Your  solution
+\\Answer: 141221
+
+
+
+\vspace{1cm}
+\item \grade{2.5} How many unique 2-grams are present in the sports data-set?
+% Your  solution
+\\Answer: 77398
+
+
+\vspace{1cm}
+\item \grade{2.5} How many unique 3-grams are present in the sports
+data-set?
+% Your  solution
+\\Answer: 135645
+
+
+\vspace{1cm}
+\end{enumerate}
+
+\newpage
+\subsection{Most Discriminant N-grams(10 points)}
+A virus has ravaged the servers of BBC and all metadata about news articles has disappeared. Luckily, you have agreed to help BBC with your superior N-gram modelling skills and have proposed to build a N-gram classifier to tell the different news domains apart.
+
+From each data set, select the two most-discriminant tri-grams from the list of top n-grams sorted in descending order by frequency. 
+
+\textbf{Hint:} The more rare a tri-gram is to a data-set, the more discriminant it is for that data-set
+\begin{enumerate}
+    \item Entertainment:
+    %Your Solution 
+    \begin{enumerate}
+        \item ('fi', 'series', 'firefly')% First Tri-gram 
+        \item ('sci', 'fi', 'series')% Second Tri-gram
+    \end{enumerate}
+
+    \item Politics:
+    %Your Solution 
+    \begin{enumerate}
+        \item ('get', 'another', 'chance')% First Tri-gram
+        \item ('would', 'get', 'another')% Second Tri-gram
+    \end{enumerate}
+
+    \item Sport:
+    %Your Solution 
+    \begin{enumerate}
+        \item ('who', 'twisted', 'his')% First Tri-gram
+        \item ('melzer', 'who', 'twisted')% Second Tri-gram
+    \end{enumerate}
+
+
+    \item Technology:
+    %Your Solution 
+    \begin{enumerate}
+        \item ('the', 'days', 'lol')% First Tri-gram
+        \item ('was', 'the', 'days') % Second Tri-gram
+    \end{enumerate}
+
+    \item Business:
+    %Your Solution 
+    \begin{enumerate}
+        \item ('to', 'be', 'confirmed')% First Tri-gram
+        \item ('still', 'to', 'be') % Second Tri-gram
+    \end{enumerate}
+\end{enumerate}
+
+\newpage
+\subsection{Song Attribution (8 points)}
+You are scrolling through the top hits playlist on Spotify when you notice a new unknown song at the top. It's recorded by an anonymous artist but the lyrics sound uncannily similar to some other songs you have heard. You have narrowed it down to three artists but are unable to choose one: \textit{it could be any of them!}
+
+You go along the rest of the day thinking who could it be. You reach Posner Hall to attend an NLP 11-411/611 lecture and David is teaching language models. Wait: language models. It suddenly hits you: language models can help in this task!
+
+Train tri-gram (`n=3`, `smoothing= 0.1`) language models on collections of song lyrics from three popular artists (`data/lyrics/`) and use the model to score a new unattributed song. 
+
+\textbf{Note} In reality, perplexity should only be used to compare language models when they have the same vocabularies but we will relax that condition for this question.
+
+\begin{enumerate}
+    \item \grade{6} What are the perplexity scores of the test lyrics against each of the language models?
+    \begin{enumerate}
+        \item Taylor Swift: 138.00663307990817
+
+        % Your solution
+        
+        \item Green Day: 522.5401188730924
+
+        % Your solution
+        
+        \item Ed Sheeran: 521.2574891234094
+
+
+        % Your solution
+    \end{enumerate}
+    
+    \item \grade{2} Who is most likely to be the lyricist? 
+    \\ Answer: Taylor Swift
+    % Your solution
+\end{enumerate}
+
+\newpage
+\subsection{Introduction to Decoding and Text Generation(8 points)}
+Run the code provided in the notebook and fill in the answers below
+
+\begin{enumerate}
+    \item \grade{6} For each of these phrases `s1` to `s3`, what are the top five word candidates after the sequence? Remember to not include, the special tokens we added during training to indicate end-of-sentence and start-of-sentence.
+    \begin{enumerate}
+        \item s1:  ('during', 'to, 'taking', 'one', 'was') % Your Solution, separated by a comma-value
+        \item s2: ('the', 'hit', 'a', 'jean', 'collateral') % Your Solution
+        \item s3: ('a', '2004') % Your Solution
+        
+    \end{enumerate}
+    
+    \item \grade{2} Report any one of the generated sentence here. Which generation mode do you think is better and why?
+    I think "Max-probability decoding" mode would be great because it can always generate the sentence with maximum probability and it looks like really working.
+    I report the example made by random and max mode like below.
+    \\
+    \\ Input: "number", "three"
+    \\ random output: 'number three during its run to date breach ofcom s programme code'
+    \\ max output:  'number three during its first week on home entertainment release the film s director richard eyre issued a warning earlier in his'
+    \vspace{3cm}
+    
+     
+\end{enumerate}
+\subsection{Comparision to a GPT (4 points)}
+Run the code provided in the notebook and fill in the answers below.
+
+\begin{enumerate}
+    \item \grade{2} What is the perplexity of your LM model?
+    \\ Answer: 4889.176510567337  % Your Solution 
+    
+    \vspace{5cm}
+    \item \grade{2} What is the preplexity of the GPT-2 model?
+    % Your Solution
+    \\ Answer: 50.56884002685547
+    
+\end{enumerate}
+
+\end{document}
