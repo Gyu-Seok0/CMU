@@ -1,0 +1,619 @@
+: 1672374954:0;ls
+: 1672374957:0;jobs
+: 1672374958:0;fg
+: 1672374992:0;python autograder/hw3_autograder/runner.py
+: 1672376014:0;fg
+: 1672376997:0;python autograder/hw3_autograder/runner.py
+: 1672376999:0;fg
+: 1672378923:0;python autograder/hw3_autograder/runner.py
+: 1672378936:0;fg
+: 1672378943:0;python autograder/hw3_autograder/runner.py
+: 1672378952:0;fg
+: 1672378984:0;python autograder/hw3_autograder/runner.py
+: 1672378992:0;fg
+: 1672379036:0;python autograder/hw3_autograder/runner.py
+: 1672379060:0;fg
+: 1672379066:0;python autograder/hw3_autograder/runner.py
+: 1672379072:0;fg
+: 1672379805:0;python autograder/hw3_autograder/runner.py
+: 1672379811:0;fg
+: 1672379819:0;python autograder/hw3_autograder/runner.py
+: 1672379841:0;fg
+: 1672379903:0;python autograder/hw3_autograder/runner.py
+: 1672379914:0;fg
+: 1672379925:0;python autograder/hw3_autograder/runner.py
+: 1672379932:0;fg
+: 1672380235:0;python autograder/hw3_autograder/runner.py
+: 1672380243:0;fg
+: 1672380389:0;python autograder/hw3_autograder/runner.py
+: 1672380411:0;fg
+: 1672380478:0;python autograder/hw3_autograder/runner.py
+: 1672380503:0;fg
+: 1672380523:0;python autograder/hw3_autograder/runner.py
+: 1672380534:0;fg
+: 1672380564:0;python autograder/hw3_autograder/runner.py
+: 1672380571:0;fg
+: 1672380638:0;python autograder/hw3_autograder/runner.py
+: 1672380648:0;fg
+: 1672380822:0;python autograder/hw3_autograder/runner.py
+: 1672380833:0;fg
+: 1672380849:0;python autograder/hw3_autograder/runner.py
+: 1672380859:0;fg
+: 1672380872:0;python autograder/hw3_autograder/runner.py
+: 1672380884:0;fg
+: 1672380898:0;python autograder/hw3_autograder/runner.py
+: 1672380920:0;fg
+: 1672381014:0;python autograder/hw3_autograder/runner.py
+: 1672381019:0;fg
+: 1672381113:0;python autograder/hw3_autograder/runner.py
+: 1672381140:0;fg
+: 1672381175:0;python autograder/hw3_autograder/runner.py
+: 1672381197:0;fg
+: 1672381244:0;python autograder/hw3_autograder/runner.py
+: 1672381250:0;fg
+: 1672381260:0;python autograder/hw3_autograder/runner.py
+: 1672381276:0;fg
+: 1672381371:0;python autograder/hw3_autograder/runner.py
+: 1672381379:0;fg
+: 1672381427:0;python autograder/hw3_autograder/runner.py
+: 1672381437:0;fg
+: 1672381462:0;python autograder/hw3_autograder/runner.py
+: 1672381469:0;fg
+: 1672381486:0;python autograder/hw3_autograder/runner.py
+: 1672381517:0;fg
+: 1672381606:0;python autograder/hw3_autograder/runner.py
+: 1672381624:0;fg
+: 1672381732:0;python autograder/hw3_autograder/runner.py
+: 1672381742:0;fg
+: 1672381763:0;python autograder/hw3_autograder/runner.py
+: 1672381772:0;fg
+: 1672381787:0;python autograder/hw3_autograder/runner.py
+: 1672381794:0;fg
+: 1672384492:0;python autograder/hw3_autograder/runner.py
+: 1672384501:0;fg
+: 1672384835:0;python autograder/hw3_autograder/runner.py
+: 1672384847:0;fg
+: 1672385100:0;python autograder/hw3_autograder/runner.py
+: 1672385110:0;fg
+: 1672385306:0;python autograder/hw3_autograder/runner.py
+: 1672385316:0;fg
+: 1672385482:0;python autograder/hw3_autograder/runner.py
+: 1672385497:0;fg
+: 1672386046:0;!
+: 1672386047:0;python autograder/hw3_autograder/runner.py
+: 1672386065:0;fg
+: 1672386126:0;python autograder/hw3_autograder/runner.py
+: 1672386157:0;fg
+: 1672386213:0;python autograder/hw3_autograder/runner.py
+: 1672386287:0;fg
+: 1672386336:0;python autograder/hw3_autograder/runner.py
+: 1672386408:0;fg
+: 1672386431:0;python autograder/hw3_autograder/runner.py
+: 1672386437:0;fg
+: 1672386446:0;python autograder/hw3_autograder/runner.py
+: 1672386457:0;fg
+: 1672386488:0;python autograder/hw3_autograder/runner.py
+: 1672386532:0;fg
+: 1672388373:0;python autograder/hw3_autograder/runner.py
+: 1672388384:0;fg
+: 1672464284:0;python autograder/hw3_autograder/runner.py
+: 1672464299:0;fg
+: 1672464326:0;python autograder/hw3_autograder/runner.py
+: 1672464374:0;qf
+: 1672464375:0;fg
+: 1672464456:0;python autograder/hw3_autograder/runner.py
+: 1672464475:0;fg
+: 1672464503:0;python autograder/hw3_autograder/runner.py
+: 1672464550:0;fg
+: 1672465528:0;python autograder/hw3_autograder/runner.py
+: 1672465540:0;fg
+: 1672465571:0;python autograder/hw3_autograder/runner.py
+: 1672465574:0;fg
+: 1672465589:0;python autograder/hw3_autograder/runner.py
+: 1672465622:0;fg
+: 1672466037:0;python autograder/hw3_autograder/runner.py
+: 1672466060:0;fg
+: 1672466136:0;python autograder/hw3_autograder/runner.py
+: 1672466140:0;fg
+: 1672466151:0;python autograder/hw3_autograder/runner.py
+: 1672466167:0;fg
+: 1672466182:0;python autograder/hw3_autograder/runner.py
+: 1672466224:0;fg
+: 1672466285:0;python autograder/hw3_autograder/runner.py
+: 1672466327:0;fg
+: 1672466612:0;python autograder/hw3_autograder/runner.py
+: 1672631203:0;ãƒ¤¹g
+: 1672631204:0;fg
+: 1672632833:0;python autograder/hw3_autograder/runner.py
+: 1672632845:0;fg
+: 1672632848:0;python autograder/hw3_autograder/runner.py
+: 1672632862:0;fg
+: 1672634181:0;python autograder/hw3_autograder/runner.py
+: 1672634191:0;fg
+: 1672634195:0;python autograder/hw3_autograder/runner.py
+: 1672634217:0;fg
+: 1672701580:0;jobs
+: 1672701581:0;fg
+: 1672765911:0;ls
+: 1672765912:0;cd ..
+: 1672773591:0;ls
+: 1672773595:0;ls mytorch
+: 1672773598:0;vim mytorch/gru_cell.py
+: 1672774779:0;python autograder/hw3_autograder/runner.py
+: 1672774823:0;fg
+: 1672774833:0;python autograder/hw3_autograder/runner.py
+: 1672774843:0;fg
+: 1672774851:0;python autograder/hw3_autograder/runner.py
+: 1672774859:0;fg
+: 1672774924:0;python autograder/hw3_autograder/runner.py
+: 1672774932:0;fg
+: 1672774936:0;python autograder/hw3_autograder/runner.py
+: 1672774947:0;fg
+: 1672774953:0;python autograder/hw3_autograder/runner.py
+: 1672774958:0;fg
+: 1672775110:0;python autograder/hw3_autograder/runner.py
+: 1672775124:0;fg
+: 1672775129:0;python autograder/hw3_autograder/runner.py
+: 1672775145:0;fg
+: 1672775168:0;python autograder/hw3_autograder/runner.py
+: 1672775180:0;fg
+: 1672775189:0;python autograder/hw3_autograder/runner.py
+: 1672775197:0;fg
+: 1672775205:0;python autograder/hw3_autograder/runner.py
+: 1672775209:0;fg
+: 1672775218:0;python autograder/hw3_autograder/runner.py
+: 1672775222:0;fg
+: 1672775231:0;python autograder/hw3_autograder/runner.py
+: 1672775236:0;fg
+: 1672775424:0;python autograder/hw3_autograder/runner.py
+: 1672775435:0;fg
+: 1672775473:0;python autograder/hw3_autograder/runner.py
+: 1672775481:0;fg
+: 1672775492:0;python autograder/hw3_autograder/runner.py
+: 1672775497:0;fg
+: 1672775509:0;!
+: 1672775510:0;fg
+: 1672775514:0;python autograder/hw3_autograder/runner.py
+: 1672775520:0;fg
+: 1672775553:0;python autograder/hw3_autograder/runner.py
+: 1672775561:0;fg
+: 1672775572:0;python autograder/hw3_autograder/runner.py
+: 1672775587:0;fg
+: 1672775596:0;python autograder/hw3_autograder/runner.py`
+: 1672775601:0;python autograder/hw3_autograder/runner.py
+: 1672775613:0;fg
+: 1672775645:0;python autograder/hw3_autograder/runner.py
+: 1672775653:0;fg
+: 1672781179:0;jobs
+: 1672781197:0;vim hw3/hw3.py
+: 1672781650:0;!
+: 1672781651:0;python autograder/hw3_autograder/runner.py
+: 1672781669:0;fg
+: 1672781681:0;python autograder/hw3_autograder/runner.py
+: 1672781688:0;fg
+: 1672781694:0;python autograder/hw3_autograder/runner.py
+: 1672781701:0;fg
+: 1672781724:0;python autograder/hw3_autograder/runner.py
+: 1672781738:0;fg
+: 1672781790:0;python autograder/hw3_autograder/runner.py
+: 1672781802:0;fg
+: 1672781813:0;python autograder/hw3_autograder/runner.py
+: 1672781818:0;fg
+: 1672781825:0;python autograder/hw3_autograder/runner.py
+: 1672781835:0;fg
+: 1672781844:0;python autograder/hw3_autograder/runner.py
+: 1672781862:0;fg
+: 1672781882:0;python autograder/hw3_autograder/runner.py
+: 1672781916:0;fg
+: 1672781972:0;python autograder/hw3_autograder/runner.py
+: 1672781985:0;fg
+: 1672781994:0;python autograder/hw3_autograder/runner.py
+: 1672782003:0;fg
+: 1672782214:0;python autograder/hw3_autograder/runner.py
+: 1672782227:0;fg
+: 1672782250:0;python autograder/hw3_autograder/runner.py
+: 1672782262:0;fg
+: 1672782297:0;!
+: 1672782298:0;python autograder/hw3_autograder/runner.py
+: 1672782323:0;fg
+: 1672782381:0;python autograder/hw3_autograder/runner.py
+: 1672782387:0;fg
+: 1672782394:0;python autograder/hw3_autograder/runner.py
+: 1672782399:0;fg
+: 1672782420:0;python autograder/hw3_autograder/runner.py
+: 1672782432:0;fg
+: 1672782442:0;python autograder/hw3_autograder/runner.py
+: 1672782470:0;jobs
+: 1672782472:0;fg
+: 1672782481:0;vim mytorch/CTC
+: 1672782484:0;vim mytorch/CTC.py
+: 1672785195:0;python autograder/hw3_autograder/runner.py
+: 1672785200:0;fg
+: 1672785245:0;python autograder/hw3_autograder/runner.py
+: 1672785258:0;fg
+: 1672786157:0;python autograder/hw3_autograder/runner.py
+: 1672786172:0;fg
+: 1672787465:0;ipython 
+: 1672787510:0;fg
+: 1672787570:0;python autograder/hw3_autograder/runner.py
+: 1672787635:0;fg
+: 1672788783:0;python autograder/hw3_autograder/runner.py
+: 1672788796:0;fg
+: 1672788811:0;python autograder/hw3_autograder/runner.py
+: 1672788824:0;fg
+: 1672789164:0;!
+: 1672789165:0;python autograder/hw3_autograder/runner.py
+: 1672789196:0;fg
+: 1672789445:0;python autograder/hw3_autograder/runner.py
+: 1672789454:0;fg
+: 1672789775:0;python autograder/hw3_autograder/runner.py
+: 1672789798:0;fg
+: 1672790057:0;python autograder/hw3_autograder/runner.py
+: 1672790063:0;fg
+: 1672790073:0;python autograder/hw3_autograder/runner.py
+: 1672790079:0;fg
+: 1672790083:0;python autograder/hw3_autograder/runner.py
+: 1672790109:0;fg
+: 1672790195:0;python autograder/hw3_autograder/runner.py
+: 1672790203:0;fg
+: 1672791592:0;python autograder/hw3_autograder/runner.py
+: 1672791607:0;fg
+: 1672791653:0;python autograder/hw3_autograder/runner.py
+: 1672791671:0;fg
+: 1672791677:0;python autograder/hw3_autograder/runner.py
+: 1672791725:0;fg
+: 1672791742:0;python autograder/hw3_autograder/runner.py
+: 1672791750:0;fg
+: 1672791953:0;python autograder/hw3_autograder/runner.py
+: 1672791964:0;fg
+: 1672791972:0;python autograder/hw3_autograder/runner.py
+: 1672791983:0;fg
+: 1672792066:0;python autograder/hw3_autograder/runner.py
+: 1672792085:0;fg
+: 1672792179:0;ipython 
+: 1672792206:0;fg
+: 1672792224:0;python autograder/hw3_autograder/runner.py
+: 1672792236:0;fg
+: 1672792258:0;python autograder/hw3_autograder/runner.py
+: 1672792264:0;fg
+: 1672792348:0;python autograder/hw3_autograder/runner.py
+: 1672792356:0;fg
+: 1672792361:0;python autograder/hw3_autograder/runner.py
+: 1672792378:0;fg
+: 1672792405:0;python autograder/hw3_autograder/runner.py
+: 1672792416:0;fg
+: 1672792642:0;python autograder/hw3_autograder/runner.py
+: 1672792664:0;fg
+: 1672792671:0;python autograder/hw3_autograder/runner.py
+: 1672792686:0;fg
+: 1672792690:0;python autograder/hw3_autograder/runner.py
+: 1672792708:0;fg
+: 1672792761:0;python autograder/hw3_autograder/runner.py
+: 1672792767:0;fg
+: 1672792772:0;python autograder/hw3_autograder/runner.py
+: 1672792780:0;fg
+: 1672792900:0;python autograder/hw3_autograder/runner.py
+: 1672792911:0;fg
+: 1672792942:0;python autograder/hw3_autograder/runner.py
+: 1672793007:0;fg
+: 1672793012:0;python autograder/hw3_autograder/runner.py
+: 1672793056:0;fg
+: 1672793095:0;python autograder/hw3_autograder/runner.py
+: 1672793122:0;fg
+: 1672793147:0;python autograder/hw3_autograder/runner.py
+: 1672793159:0;fg
+: 1672793172:0;python autograder/hw3_autograder/runner.py
+: 1672793207:0;fg
+: 1672793222:0;python autograder/hw3_autograder/runner.py
+: 1672793234:0;fg
+: 1672793240:0;python autograder/hw3_autograder/runner.py
+: 1672793254:0;fg
+: 1672794456:0;python autograder/hw3_autograder/runner.py
+: 1672794465:0;fg
+: 1672794474:0;python autograder/hw3_autograder/runner.py
+: 1672794484:0;fg
+: 1672794532:0;python autograder/hw3_autograder/runner.py
+: 1672794542:0;fg
+: 1672794547:0;python autograder/hw3_autograder/runner.py
+: 1672794552:0;fg
+: 1672794559:0;python autograder/hw3_autograder/runner.py
+: 1672794598:0;fg
+: 1672794830:0;python autograder/hw3_autograder/runner.py
+: 1672794836:0;fg
+: 1672794867:0;python autograder/hw3_autograder/runner.py
+: 1672794882:0;fg
+: 1672794892:0;python autograder/hw3_autograder/runner.py
+: 1672794906:0;g
+: 1672794908:0;fg
+: 1672795013:0;python autograder/hw3_autograder/runner.py
+: 1672795029:0;fg
+: 1672795038:0;python autograder/hw3_autograder/runner.py
+: 1672795047:0;fg
+: 1672795112:0;python autograder/hw3_autograder/runner.py
+: 1672795119:0;fg
+: 1672795215:0;python autograder/hw3_autograder/runner.py
+: 1672795223:0;fg
+: 1672795229:0;python autograder/hw3_autograder/runner.py
+: 1672795274:0;fg
+: 1672795293:0;!
+: 1672795294:0;python autograder/hw3_autograder/runner.py
+: 1672795305:0;fg
+: 1672795344:0;python autograder/hw3_autograder/runner.py
+: 1672795368:0;fg
+: 1672795419:0;python autograder/hw3_autograder/runner.py
+: 1672795426:0;fg
+: 1672795461:0;python autograder/hw3_autograder/runner.py
+: 1672795472:0;fg
+: 1672795545:0;python autograder/hw3_autograder/runner.py
+: 1672795582:0;fg
+: 1672795639:0;python autograder/hw3_autograder/runner.py
+: 1672795650:0;fg
+: 1672795766:0;python autograder/hw3_autograder/runner.py
+: 1672795774:0;fg
+: 1672795990:0;python autograder/hw3_autograder/runner.py
+: 1672796056:0;fg
+: 1672796068:0;python autograder/hw3_autograder/runner.py
+: 1672796075:0;g
+: 1672796076:0;fg
+: 1672796145:0;python autograder/hw3_autograder/runner.py
+: 1672796153:0;fg
+: 1672796476:0;python autograder/hw3_autograder/runner.py
+: 1672796485:0;fg
+: 1672796489:0;python autograder/hw3_autograder/runner.py
+: 1672796494:0;fg
+: 1672796498:0;python autograder/hw3_autograder/runner.py
+: 1672796505:0;fg
+: 1672796517:0;python autograder/hw3_autograder/runner.py
+: 1672796537:0;fg
+: 1672796596:0;python autograder/hw3_autograder/runner.py
+: 1672796611:0;fg
+: 1672796656:0;~p
+: 1672796657:0;python autograder/hw3_autograder/runner.py
+: 1672796664:0;fg
+: 1672796687:0;python autograder/hw3_autograder/runner.py
+: 1672796703:0;fg
+: 1672796733:0;python autograder/hw3_autograder/runner.py
+: 1672796745:0;fg
+: 1672796782:0;python autograder/hw3_autograder/runner.py
+: 1672796788:0;fg
+: 1672796827:0;python autograder/hw3_autograder/runner.py
+: 1672796834:0;fg
+: 1672796874:0;vim mytorch/CTCDecoding.py
+: 1672805493:0;python autograder/hw3_autograder/runner.py
+: 1672805500:0;fg
+: 1672805638:0;python autograder/hw3_autograder/runner.py
+: 1672805643:0;fg
+: 1672805867:0;python autograder/hw3_autograder/runner.py
+: 1672805875:0;fg
+: 1672805926:0;python autograder/hw3_autograder/runner.py
+: 1672805934:0;fg
+: 1672805937:0;python autograder/hw3_autograder/runner.py
+: 1672805944:0;fg
+: 1672805957:0;python autograder/hw3_autograder/runner.py
+: 1672805966:0;fg
+: 1672805982:0;python autograder/hw3_autograder/runner.py
+: 1672805991:0;fg
+: 1672806006:0;python autograder/hw3_autograder/runner.py
+: 1672806011:0;fg
+: 1672806038:0;python autograder/hw3_autograder/runner.py
+: 1672806048:0;fg
+: 1672806086:0;python autograder/hw3_autograder/runner.py
+: 1672806091:0;fg
+: 1672806186:0;python autograder/hw3_autograder/runner.py
+: 1672806197:0;fg
+: 1672806268:0;python autograder/hw3_autograder/runner.py
+: 1672806273:0;fg
+: 1672806284:0;python autograder/hw3_autograder/runner.py
+: 1672806288:0;fg
+: 1672809077:0;ipython 
+: 1672809219:0;fg
+: 1672809486:0;python autograder/hw3_autograder/runner.py
+: 1672809500:0;fg
+: 1672809506:0;python autograder/hw3_autograder/runner.py
+: 1672809527:0;fg
+: 1672809682:0;python autograder/hw3_autograder/runner.py
+: 1672809686:0;fg
+: 1672809690:0;python autograder/hw3_autograder/runner.py
+: 1672809696:0;fg
+: 1672809807:0;python autograder/hw3_autograder/runner.py
+: 1672809814:0;fg
+: 1672809824:0;python autograder/hw3_autograder/runner.py
+: 1672809831:0;fg
+: 1672809886:0;python autograder/hw3_autograder/runner.py
+: 1672809890:0;fg
+: 1672810407:0;python autograder/hw3_autograder/runner.py
+: 1672810431:0;fg
+: 1672810520:0;python autograder/hw3_autograder/runner.py
+: 1672810536:0;fg
+: 1672810646:0;python autograder/hw3_autograder/runner.py
+: 1672810654:0;fg
+: 1672810669:0;python autograder/hw3_autograder/runner.py
+: 1672810709:0;fg
+: 1672810715:0;python autograder/hw3_autograder/runner.py
+: 1672810722:0;fg
+: 1672810730:0;python autograder/hw3_autograder/runner.py
+: 1672810771:0;fg
+: 1672810782:0;python autograder/hw3_autograder/runner.py
+: 1672810805:0;fg
+: 1672810817:0;python autograder/hw3_autograder/runner.py
+: 1672810836:0;fg
+: 1672810856:0;python autograder/hw3_autograder/runner.py
+: 1672810874:0;fg
+: 1672810893:0;python autograder/hw3_autograder/runner.py
+: 1672810904:0;fg
+: 1672810935:0;python autograder/hw3_autograder/runner.py
+: 1672810940:0;fg
+: 1672810951:0;python autograder/hw3_autograder/runner.py
+: 1672810954:0;fg
+: 1672810959:0;python autograder/hw3_autograder/runner.py
+: 1672810963:0;fg
+: 1672810974:0;python autograder/hw3_autograder/runner.py
+: 1672810998:0;fg
+: 1672811004:0;python autograder/hw3_autograder/runner.py
+: 1672811036:0;fg
+: 1672811073:0;python autograder/hw3_autograder/runner.py
+: 1672811075:0;fg
+: 1672811079:0;python autograder/hw3_autograder/runner.py
+: 1672811091:0;fg
+: 1672811136:0;python autograder/hw3_autograder/runner.py
+: 1672811157:0;fg
+: 1672811219:0;python autograder/hw3_autograder/runner.py
+: 1672811228:0;fg
+: 1672811368:0;python autograder/hw3_autograder/runner.py
+: 1672811388:0;fg
+: 1672811402:0;python autograder/hw3_autograder/runner.py
+: 1672811410:0;fg
+: 1672811418:0;python autograder/hw3_autograder/runner.py
+: 1672811431:0;fg
+: 1672811480:0;python autograder/hw3_autograder/runner.py
+: 1672811488:0;fg
+: 1672811518:0;python autograder/hw3_autograder/runner.py
+: 1672811523:0;fg
+: 1672811536:0;python autograder/hw3_autograder/runner.py
+: 1672811563:0;fg
+: 1672811652:0;python autograder/hw3_autograder/runner.py
+: 1672811665:0;fg
+: 1672811675:0;python autograder/hw3_autograder/runner.py
+: 1672811689:0;fg
+: 1672811721:0;python autograder/hw3_autograder/runner.py
+: 1672811733:0;fg
+: 1672811755:0;python autograder/hw3_autograder/runner.py
+: 1672811763:0;fg
+: 1672811800:0;python autograder/hw3_autograder/runner.py
+: 1672811828:0;fg
+: 1672813708:0;python autograder/hw3_autograder/runner.py
+: 1672813715:0;fg
+: 1672813725:0;python autograder/hw3_autograder/runner.py
+: 1672813733:0;fg
+: 1672813747:0;python autograder/hw3_autograder/runner.py
+: 1672813755:0;fg
+: 1672813761:0;python autograder/hw3_autograder/runner.py
+: 1672813766:0;fg
+: 1672813783:0;python autograder/hw3_autograder/runner.py
+: 1672813790:0;fg
+: 1672813799:0;python autograder/hw3_autograder/runner.py
+: 1672813804:0;fg
+: 1672813810:0;python autograder/hw3_autograder/runner.py
+: 1672813818:0;fg
+: 1672813829:0;python autograder/hw3_autograder/runner.py
+: 1672813834:0;fg
+: 1672882708:0;python autograder/hw3_autograder/runner.py
+: 1672882718:0;fg
+: 1672882726:0;python autograder/hw3_autograder/runner.py
+: 1672882733:0;fg
+: 1672882752:0;python autograder/hw3_autograder/runner.py
+: 1672882761:0;fg
+: 1672882766:0;python autograder/hw3_autograder/runner.py
+: 1672882777:0;fg
+: 1672882782:0;python autograder/hw3_autograder/runner.py
+: 1672882799:0;fg
+: 1672882892:0;python autograder/hw3_autograder/runner.py
+: 1672882987:0;fg
+: 1672883042:0;python autograder/hw3_autograder/runner.py
+: 1672883047:0;fg
+: 1672883099:0;ipython 
+: 1672883119:0;fg
+: 1672883148:0;python autograder/hw3_autograder/runner.py
+: 1672883156:0;fg
+: 1672883183:0;python autograder/hw3_autograder/runner.py
+: 1672883190:0;fg
+: 1672883200:0;python autograder/hw3_autograder/runner.py
+: 1672883205:0;fg
+: 1672883261:0;python autograder/hw3_autograder/runner.py
+: 1672883269:0;fg
+: 1672883300:0;python autograder/hw3_autograder/runner.py
+: 1672883305:0;fg
+: 1672883309:0;python autograder/hw3_autograder/runner.py
+: 1672883313:0;fg
+: 1672883850:0;python autograder/hw3_autograder/runner.py
+: 1672884792:0;fg
+: 1672884816:0;python autograder/hw3_autograder/runner.py
+: 1672884828:0;fg
+: 1672884840:0;python autograder/hw3_autograder/runner.py
+: 1672884861:0;fg
+: 1672885005:0;python autograder/hw3_autograder/runner.py
+: 1672885034:0;fg
+: 1672885047:0;python autograder/hw3_autograder/runner.py
+: 1672885086:0;fg
+: 1672885092:0;python autograder/hw3_autograder/runner.py
+: 1672885103:0;fg
+: 1672885189:0;!
+: 1672885190:0;python autograder/hw3_autograder/runner.py
+: 1672885207:0;fg
+: 1672885312:0;python autograder/hw3_autograder/runner.py
+: 1672885332:0;fg
+: 1672885388:0;python autograder/hw3_autograder/runner.py
+: 1672885394:0;fg
+: 1672885466:0;python autograder/hw3_autograder/runner.py
+: 1672885471:0;fg
+: 1672885478:0;python autograder/hw3_autograder/runner.py
+: 1672885482:0;fg
+: 1672885531:0;python autograder/hw3_autograder/runner.py
+: 1672885536:0;fg
+: 1672885542:0;python autograder/hw3_autograder/runner.py
+: 1672885545:0;fg
+: 1672885562:0;python autograder/hw3_autograder/runner.py
+: 1672885587:0;fg
+: 1672885640:0;python autograder/hw3_autograder/runner.py
+: 1672885645:0;fg
+: 1672885671:0;python autograder/hw3_autograder/runner.py
+: 1672886126:0;fg
+: 1672886149:0;python autograder/hw3_autograder/runner.py
+: 1672886220:0;fg
+: 1672886228:0;python autograder/hw3_autograder/runner.py
+: 1672886257:0;fg
+: 1672886261:0;python autograder/hw3_autograder/runner.py
+: 1672886321:0;fg
+: 1672886339:0;python autograder/hw3_autograder/runner.py
+: 1672886430:0;fg
+: 1672886514:0;python autograder/hw3_autograder/runner.py
+: 1672886587:0;fg
+: 1672886624:0;python autograder/hw3_autograder/runner.py
+: 1672886741:0;fg
+: 1672886779:0;python autograder/hw3_autograder/runner.py
+: 1672887035:0;fg
+: 1672887059:0;python autograder/hw3_autograder/runner.py
+: 1672887634:0;fg
+: 1672887920:0;python autograder/hw3_autograder/runner.py
+: 1672888192:0;fg
+: 1672888269:0;python autograder/hw3_autograder/runner.py
+: 1672888285:0;fg
+: 1672888287:0;python autograder/hw3_autograder/runner.py
+: 1672888601:0;fg
+: 1672888649:0;python autograder/hw3_autograder/runner.py
+: 1672896385:0;fg
+: 1672896423:0;python autograder/hw3_autograder/runner.py
+: 1672896427:0;fg
+: 1672896451:0;python autograder/hw3_autograder/runner.py
+: 1672896464:0;fg
+: 1672896473:0;python autograder/hw3_autograder/runner.py
+: 1672897195:0;fg
+: 1672897804:0;python autograder/hw3_autograder/runner.py
+: 1672897825:0;fg
+: 1672897848:0;python autograder/hw3_autograder/runner.py
+: 1672897859:0;fg
+: 1672897964:0;python autograder/hw3_autograder/runner.py
+: 1672898234:0;fg
+: 1672898673:0;python autograder/hw3_autograder/runner.py
+: 1672899160:0;fg
+: 1672899168:0;python autograder/hw3_autograder/runner.py
+: 1672899203:0;fg
+: 1672899461:0;python autograder/hw3_autograder/runner.py
+: 1672899661:0;fg
+: 1672899856:0;python autograder/hw3_autograder/runner.py
+: 1672900019:0;fg
+: 1672900059:0;python autograder/hw3_autograder/runner.py
+: 1672900068:0;fg
+: 1672900092:0;python autograder/hw3_autograder/runner.py
+: 1672900371:0;fg
+: 1672900401:0;python autograder/hw3_autograder/runner.py
+: 1672900473:0;fg
+: 1672900504:0;python autograder/hw3_autograder/runner.py
+: 1672900750:0;fg
+: 1672900790:0;python autograder/hw3_autograder/runner.py
+: 1672900799:0;ls
+: 1672900801:0;jobs
+: 1672900801:0;fg
+: 1672900832:0;open .
+: 1672900838:0;jobs
+: 1672900838:0;exit
